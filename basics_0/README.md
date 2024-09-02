@@ -1,0 +1,4 @@
+- OSI model
+- Types of network
+- MAC and IP addresses
+- UDP and TCP

@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-#netstat --listening
+#Active Internet connections (only servers)
+netstat -n
